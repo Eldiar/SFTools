@@ -1,0 +1,76 @@
+{
+  "race": [
+    {
+      "name": "",
+      "source": "",
+      "page": 0,
+      "hp": 0,
+      "size": "medium",
+      "type": "humanoid",
+      "subtype": "kasatha",
+
+      "ability": [
+        {
+          "cha": 0,
+          "con": 0,
+          "dex": 0,
+          "int": 0,
+          "str": 0,
+          "wis": 0
+        }
+      ],
+      "racialFeatures": [
+        {
+          "name": "",
+          "entries": [
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "entries": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "source": "",
+      "page": 0,
+      "hp": 0,
+      "size": "medium",
+      "type": "humanoid",
+      "subtype": "kasatha",
+
+      "ability": [
+        {
+          "cha": 0,
+          "con": 0,
+          "dex": 0,
+          "int": 0,
+          "str": 0,
+          "wis": 0
+        }
+      ],
+      "racialFeatures": [
+        {
+          "name": "",
+          "entries": [
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "entries": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

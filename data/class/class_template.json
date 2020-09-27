@@ -4,11 +4,22 @@
       "name": "",
       "source": "",
       "page": 0,
-      "stamina": 0,
+      "sp": 0,
       "hp": 0,
+      "skillRanks": 0,
       "proficiencies": {
-        "armor": "",
-        "weapons": ""
+        "armor": [
+          "",
+          ""
+         ],
+        "weapons": [
+          "",
+          ""
+        ],
+        "skill": [
+          "",
+          ""
+        ]
       },
       "classTable": [
         {
