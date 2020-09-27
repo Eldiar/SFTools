@@ -11,7 +11,7 @@
         "armor": [
           "",
           ""
-         ],
+        ],
         "weapons": [
           "",
           ""
@@ -21,6 +21,10 @@
           ""
         ]
       },
+      "description": [
+        "",
+        ""
+      ]
       "classTable": [
         {
           "title": "Base Attack Bonus",

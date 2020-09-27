@@ -1,0 +1,41 @@
+{
+  "theme": [
+    {
+      "name": "",
+      "source": "",
+      "page": 0,
+      "ability": [
+        {
+          "cha": 0,
+          "con": 0,
+          "dex": 0,
+          "int": 0,
+          "str": 0,
+          "wis": 0
+        }
+      ],
+      "description": [
+        "",
+        ""
+      ],
+      "themeFeatures": [
+        {
+          "name": "",
+          "level": 0,
+          "entries": [
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "level": 0,
+          "entries": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
