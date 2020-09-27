@@ -1,0 +1,137 @@
+{
+  "class": [
+    {
+      "name": "",
+      "source": "",
+      "page": 0,
+      "stamina": 0,
+      "hp": 0,
+      "proficiencies": {
+        "armor": "",
+        "weapons": ""
+      },
+      "classTable": [
+        {
+          "title": "Base Attack Bonus",
+          "rows": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "title": "FORT Save Bonus",
+          "rows": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "title": "REF Save Bonus",
+          "rows": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "title": "WILL Save Bonus",
+          "rows": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "classFeatures": [
+        {
+          "name": "",
+          "source": "",
+          "page": 0,
+          "level": 0,
+          "entries": [
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "source": "",
+          "page": 0,
+          "level": 0,
+          "entries": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
